@@ -1,0 +1,22 @@
+.json-form {
+    padding: 20px;
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+
+    .full-width {
+      width: 100%;
+
+      textarea {
+        height: 300px;
+      }
+    }
+  }
+  
+  mat-slider {
+    width: 300px;
+  }
+
+  .label-control-wrapper {
+    position: relative;
+  }
